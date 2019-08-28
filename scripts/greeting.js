@@ -39,4 +39,4 @@ function init() {
     loadName();
 }
 
-init(); 
+init();
